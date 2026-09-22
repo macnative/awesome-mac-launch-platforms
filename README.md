@@ -2,13 +2,13 @@
 
 [![Follow on X](https://img.shields.io/badge/X-%40Best__MacApps-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/best_macapps) [![Join Telegram](https://img.shields.io/badge/Telegram-mac__native-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mac_native) [![Subscribe on Substack](https://img.shields.io/badge/Substack-Subscribe-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://nativemacapps.substack.com/)
 
-A curated, no-fluff list of every real channel for launching or promoting a **macOS app**: submission platforms, subreddits, GitHub "awesome" lists, and newsletters — each one marked **Free**, **Paid**, or **Freemium**, with the actual submission link and the gotchas nobody tells you about.
+A curated, no-fluff list of places to launch and promote a **macOS app**: submission platforms, Reddit communities, GitHub "awesome" lists, and newsletters. Every entry includes its submission link, cost model, best fit, and the practical rules that can get a launch rejected.
 
 Built by [MacNative.io](https://macnative.io), a hand-picked directory of the best macOS apps. If you're shipping a Mac app, this is the list we wish existed when we started.
 
 ---
 
-## 📬 Get Your App in Front of 100,000+ Mac Users
+## 📬 Get Your App in Front of 10,000+ Mac Users
 
 Beyond this list, there are three free ways to get your app discovered through MacNative:
 
@@ -25,7 +25,9 @@ _All three are free. We built this launch-platforms list to point back at them b
 ## Contents
 
 - [🚀 First Launch? Start Here](#-first-launch-start-here)
+- [Choose the Right Channel](#choose-the-right-channel)
 - [🗓️ A Coordinated Launch Sequence](#️-a-coordinated-launch-sequence)
+- [Before You Submit](#before-you-submit)
 - [Launch & Discovery Platforms](#launch--discovery-platforms)
 - [Reddit Communities](#reddit-communities)
 - [GitHub Awesome Lists](#github-awesome-lists)
@@ -50,6 +52,19 @@ If you only do five things, do these — all free, all take under 20 minutes eac
 
 ⚠️ **Pricing and free-tier limits on submission sites change often.** We link directly to each platform's submit page — always confirm current cost there before paying anything; treat this list as directionally accurate, not a live price feed.
 
+## Choose the Right Channel
+
+Use this as a quick route finder before working through the full list.
+
+| If your goal is… | Start with | Then use |
+|---|---|---|
+| A concentrated launch-day conversation | [Product Hunt](https://www.producthunt.com/launch) + [Show HN](https://news.ycombinator.com/show) | [r/SideProject](https://www.reddit.com/r/SideProject/) with the story behind the app |
+| Durable Google discovery and backlinks | [MacUpdate](https://www.macupdate.com/help/submit-app) + [AlternativeTo](https://alternativeto.net/) | Relevant GitHub awesome lists and SaaSHub |
+| Feedback from Mac users before a broader launch | [r/macapps](https://www.reddit.com/r/macapps/) | A targeted pitch to a Mac-focused newsletter |
+| Discovery for an open-source app | [r/coolgithubprojects](https://www.reddit.com/r/coolgithubprojects/) | Open-source-only awesome lists and [r/opensource](https://www.reddit.com/r/opensource/) |
+| A pre-launch waitlist | [BetaList](https://betalist.com/) | Build an audience before scheduling Product Hunt |
+| A native Swift, SwiftUI, or AppKit app | [Awesome Native macOS Apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) | MacNative and Mac-specific communities |
+
 ---
 
 ## 🗓️ A Coordinated Launch Sequence
@@ -67,6 +82,17 @@ Post to [r/macapps](https://www.reddit.com/r/macapps/) (max one self-promo post 
 
 **Ongoing**
 Submit to [MacNative.io](https://macnative.io/submit) and keep an eye on new "Show and Tell"-style threads in [Indie Hackers](https://www.indiehackers.com/) — post real milestones (first 100 users, first $1k), not the launch itself; that's what gets organic pickup in their newsletter.
+
+## Before You Submit
+
+A listing can drive attention, but it cannot compensate for an unclear product page. Prepare these once, then reuse them across every channel:
+
+- **One-line promise:** say who the app is for, the job it does, and why it is distinct — without feature dumping.
+- **A working destination:** link to a product page, App Store listing, TestFlight/beta, or download. Do not send launch traffic to an unfinished waitlist unless the channel is specifically for pre-launch apps.
+- **Visual proof:** prepare a square icon, 2–3 current screenshots, and a short demo GIF or video. Show the outcome in the first image.
+- **Honest pricing and privacy details:** surface the trial, paid plan, in-app purchases, data handling, and macOS requirement before people have to ask.
+- **A channel-specific angle:** adapt the post to the audience. A Show HN post should explain the technical or unusual part; a Reddit post should invite concrete feedback; a newsletter pitch should make the editor's selection easy.
+- **A reply plan:** be available on launch day, answer criticism directly, and record recurring questions. Those questions become the best copy for your website and next launch.
 
 ---
 

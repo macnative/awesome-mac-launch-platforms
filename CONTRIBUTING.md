@@ -25,7 +25,8 @@ It does **not** include general social media (X, LinkedIn) or paid ad platforms 
 
 4. Keep the description to one line, factual, no marketing language ("the best", "revolutionary", etc.).
 5. Double-check the URL works and reflects the current submission flow — dead links get closed without merge.
-6. Open a PR with a short title, e.g. `Add [PlatformName] to Launch Platforms`.
+6. Add a short `Last verified: YYYY-MM` note when you are correcting time-sensitive pricing or rules. It helps the next contributor know where to check first.
+7. Open a PR with a short title, e.g. `Add [PlatformName] to Launch Platforms`.
 
 ## Updating an existing entry
 
@@ -37,6 +38,10 @@ Pricing and submission flows change often. If you spot something stale (a platfo
 - Duplicate or near-duplicate platforms already listed
 - Anything requiring payment just to be *listed* here (this list itself is always free)
 - Broken or affiliate-wrapped links
+
+## A note on changing information
+
+Costs, queues, rules, and audience counts are time-sensitive. Please favor a direct submission or rules URL over a homepage, avoid estimates unless they are useful context, and say what changed in the PR description. A small correction is more valuable than a broad rewrite that cannot be verified.
 
 ## Maintainers
 
