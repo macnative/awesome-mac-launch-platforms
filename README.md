@@ -15,7 +15,7 @@ Beyond this list, there are three free ways to get your app discovered through M
 | Channel | What happens | Link |
 |---|---|---|
 | **MacNative.io directory** | Submit your app for a hand-picked listing with screenshots | [macnative.io/submit](https://macnative.io/submit) |
-| **Native Mac Apps newsletter** | Get featured in our monthly roundup of native macOS apps | [Subscribe →](https://macnative.substack.com/) |
+| **MacNative newsletter** | Get featured in our monthly roundup of native macOS apps | [Subscribe →](https://macnative.substack.com/) |
 | **Awesome Native macOS Apps** | If your app is genuinely native (Swift/SwiftUI/AppKit), add it via PR | [github.com/open-saas-directory/awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) |
 
 _All three are free. We built this launch-platforms list to point back at them because we couldn't find one that did — now you don't have to build your own spreadsheet either._
@@ -159,7 +159,7 @@ Most newsletter placements are pitch/relationship-based, not self-serve forms �
 | Newsletter | Audience | How to get featured |
 |---|---|---|
 | [MacStories Weekly](https://www.macstories.net/) | Mac/iOS power users, highly respected in the Apple community | No public submit form — pitch via their contact page. Some inclusion tied to Club MacStories membership. |
-| [Native Mac Apps](https://macnative.substack.com/) *(us)* | Mac users who specifically want native, non-Electron apps | Free — [submit your app](https://macnative.io/submit) or reach out on [X](https://x.com/best_macapps) / [Telegram](https://t.me/mac_native). |
+| [MacNative](https://macnative.substack.com/) *(us)* | Mac users who specifically want native, non-Electron apps | Free — [submit your app](https://macnative.io/submit) or reach out on [X](https://x.com/best_macapps) / [Telegram](https://t.me/mac_native). |
 | [Daryl Baxter's App Picks](https://darylbaxter.com/) | Indie iOS/Mac/tvOS app followers | Monthly hand-picked list of 5–6 apps, explicitly no AI-generated picks. No public form — pitch directly. |
 | [Indie Hackers newsletter](https://www.indiehackers.com/) | Founders/makers | Organic pickup from strong posts on the platform — post a real milestone first, don't pitch the newsletter directly. |
 | [SharewareOnSale newsletter](https://sharewareonsale.com/) | Users looking for free/discounted Mac & Windows software | Apply via their site's submission/promo page — works best paired with a limited-time free or discount offer. |
@@ -188,6 +188,6 @@ To the extent possible under law, the contributors have waived all copyright and
 
 **⭐ Found this useful?** Star the repo so other Mac developers can find it.
 
-**🔗 Related from MacNative:** [MacNative.io](https://macnative.io) · [Native Mac Apps newsletter](https://macnative.substack.com/) · [Awesome Native macOS Apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) · [Submit your app](https://macnative.io/submit)
+**🔗 Related from MacNative:** [MacNative.io](https://macnative.io) · [MacNative newsletter](https://macnative.substack.com/) · [Awesome Native macOS Apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) · [Submit your app](https://macnative.io/submit)
 
 **📣 Share:** [Twitter/X](https://twitter.com/intent/tweet?text=Awesome%20Mac%20Launch%20Platforms%20%E2%80%94%20every%20real%20channel%20to%20launch%20a%20macOS%20app%2C%20with%20pricing&url=https://github.com/macnative/awesome-mac-launch-platforms) | [Reddit](https://reddit.com/submit?url=https://github.com/macnative/awesome-mac-launch-platforms&title=Awesome%20Mac%20Launch%20Platforms)
